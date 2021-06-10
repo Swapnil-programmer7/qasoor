@@ -1,0 +1,27 @@
+img{height: 550px;}
+
+body{
+  background-color: #fff5fd;
+}
+h1{
+  font-size: 150px;
+  color: #962d2d;
+}
+h2{
+  color: #e798ae;
+}
+h3{
+  color: #962d2d;
+}
+p{
+  color: #f5abc9;
+}
+table{
+  color: #f5abc9;
+}
+hr{
+  border-style: dotted none none;
+  width: 40%;
+  border-color: #f6b8b8;
+  border-width: 8px;
+}
